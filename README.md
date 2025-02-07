@@ -1,2 +1,3 @@
-# theme-components
-📦 Some of @zen-browsers official themes and utility styles!
+# Theme Components
+
+📦 Some of @zen-browser official themes and utility styles!

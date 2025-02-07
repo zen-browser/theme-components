@@ -1,5 +1,4 @@
-
-@media not (-moz-bool-pref: "zen.view.compact") {   
+@media not (-moz-bool-pref: "zen.view.compact") {
     #tabbrowser-tabpanels {
         & .browserSidebarContainer:not([zen-split="true"]) {
             --zen-webview-border-radius: var(--zen-border-radius) 0 0 0;
